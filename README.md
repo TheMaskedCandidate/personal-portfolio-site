@@ -17,4 +17,4 @@ Currently Under Construction 🚧
 HTML, CSS, Figma, Power BI, Canva, GitHub Pages
 
 ## 🌐 Live Preview
-Coming soon via GitHub Pages!
+**[Click here to view the site](https://themaskedcandidate.github.io/personal-portfolio-site/)**  
