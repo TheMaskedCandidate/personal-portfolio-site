@@ -7,8 +7,6 @@ This is a responsive portfolio website built using HTML5, JavaScript and CSS3 to
 - Data Engineering
 - Sustainability
 
-Currently Under Construction 🚧
-
 ## 🚀 Projects Featured
 - **Geospatial Data Pipeline** – In progress
 - **ArcGIS storymap Project** – Internship project using spatial data to highlight accessibility gaps in Toronto
